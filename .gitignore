@@ -1,4 +1,5 @@
 /src/generated/prisma
+public
 # Logs
 logs
 *.log
